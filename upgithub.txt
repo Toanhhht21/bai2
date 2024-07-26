@@ -1,0 +1,6 @@
+1  git clone link repository
+2  cd name_repository
+3  git status
+4  git add name_file
+5  git commit -m"name_repository"
+6  git push origin main
